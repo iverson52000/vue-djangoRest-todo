@@ -1,1 +1,1 @@
-# vue-djangoRest-todo
+# vue-djangorest-students API
